@@ -1,1 +1,8 @@
-# cross_market_analysis
+Requirement Tools
+
+Python
+Pandas
+TIDB
+SQL
+Streamlit
+
